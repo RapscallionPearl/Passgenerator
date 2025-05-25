@@ -1,115 +1,115 @@
 body {
-    margin-top: 64px;
-    margin-left: 62px;
-    background-color: #1C1C1C;
-    color: white;
+  margin-top: 64px;
+  margin-left: 62px;
+  background-color: #1c1c1c;
+  color: white;
 }
 
 div {
-    background-color: #1F2937;
-    width: 550px;
-    height: 550px;
+  background-color: #1f2937;
+  width: 550px;
+  height: 550px;
 }
 
 h1 {
-    font-family: Karla;
-    font-weight: 800;
-    font-size: 40px;
-    line-height: 40px;
-    letter-spacing: -2.5%;
-    width: 354px;
-    height: 80px;
-    padding-top: 115px;
-    padding-left: 52px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;    
+  font-family: Karla;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: -2.5%;
+  width: 354px;
+  height: 80px;
+  padding-top: 115px;
+  padding-left: 52px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 em {
-    color: #4ADF86;
-    font-style: normal;
-    display: block;
+  color: #4adf86;
+  font-style: normal;
+  display: block;
 }
 
 hr {
-    border-top: 2px;
-    border-color: #2F3E53;
-    width: 446px;
-    margin-top: 35px;
-    margin-bottom: 0px;
+  border-top: 2px;
+  border-color: #2f3e53;
+  width: 446px;
+  margin-top: 35px;
+  margin-bottom: 0px;
 }
 
-p {
-    font-family: Inter;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 28px;
-    letter-spacing: 0%;
-    color: #D5D4D8;
-    width: 372;
-    height: 28;
-    padding-left: 52px;
-    margin-top: 10px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+#subtitle {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0%;
+  color: #d5d4d8;
+  width: 372;
+  height: 28;
+  padding-left: 52px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 button {
-    background-color: #10B981;
-    width: hug 191px;
-    height: hug 42px;
-    margin-top: 51px;
-    margin-left: 52px;
-    border-radius: 6px;
-    padding-top: 9px;
-    padding-right: 17px;
-    padding-bottom: 9px;
-    padding-left: 15px;
-    font-family: Inter;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0%;
-    color: #FFFFFF;
-    margin-bottom: 0px;
+  background-color: #10b981;
+  width: hug 191px;
+  height: hug 42px;
+  margin-top: 51px;
+  margin-left: 52px;
+  border-radius: 6px;
+  padding-top: 9px;
+  padding-right: 17px;
+  padding-bottom: 9px;
+  padding-left: 15px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #ffffff;
+  margin-bottom: 0px;
 }
 
 #firstpass {
-    color: #55F991;
-    font-family: Inter;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 32px;
-    letter-spacing: 0%;
-    padding: 0px;
-    text-align: center;
-    margin: 0px;
+  color: #55f991;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  padding: 0px;
+  text-align: center;
+  margin: 0px;
 }
 
 #secondpass {
-    color: #55F991;;
-    font-family: Inter;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 32px;
-    letter-spacing: 0%;
-    padding: 0px;
-    text-align: center;
-    margin: 0px;
+  color: #55f991;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: 0%;
+  padding: 0px;
+  text-align: center;
+  margin: 0px;
 }
-    
-.passbg{
-    display: inline-block;
-    background-color: #273549;
-    width: 211px;
-    height: 39px;
-    border-radius: 6px;
-    padding: 0px;
-    margin-left: 24px;
+
+.passbg {
+  display: inline-block;
+  background-color: #273549;
+  width: 211px;
+  height: 39px;
+  border-radius: 6px;
+  padding: 0px;
+  margin-left: 24px;
 }
-#passcontainer{
-    margin-left: 28px;
-    margin-top: 35px;
-    width: 500px;
-    height: 40px;
+#passcontainer {
+  margin-left: 28px;
+  margin-top: 35px;
+  width: 500px;
+  height: 40px;
 }
